@@ -30,19 +30,6 @@ AI API Integration (OpenAI / Gemini / custom API)
 
 Node.js Functions (optional backend)
 
-📦 Project Structure
-ai-trip-planner/
- ├── src/
- │   ├── components/
- │   ├── pages/
- │   ├── hooks/
- │   ├── utils/
- │   └── App.jsx
- ├── public/
- ├── functions/ (if backend is used)
- ├── package.json
- └── README.md
-
 📖 How It Works
 
 User enters destination, budget, travel dates, and preferences
